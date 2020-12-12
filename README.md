@@ -16,6 +16,6 @@ This project requires you to create an **asynchronous** web app that uses **Web 
 * _post request_ using _app.post_ and _await fetch_ to obtain the user input and add it to the information that was obtain in the first step.
 * Call back function and updating the UI using _updateUI_ function in order to post the data to the _UI_ as a dynamic update.
 
-## Created By:
+### Created By:
 
-**_Christine Hanna_**
+**Christine Hanna**
